@@ -95,7 +95,7 @@ CCTV17,http://223.110.236.6/ott.js.chinamobile.com/PLTV/4/224/3221227726/index.m
 北京4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 欢笑剧场,http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 爱上4K20H,http://39.134.18.83/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-CCTV4K,http://223.110.236.16/ott.js.chinamobile.com/PLTV/4/224/3221228228/index.m3u8
+cctv4k,http://223.110.236.16/ott.js.chinamobile.com/PLTV/4/224/3221228228/index.m3u8
 cctv4k,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 纯享4K,http://223.110.236.4/ott.js.chinamobile.com/PLTV/4/224/3221227506/index.m3u8
 4k修复频道,http://223.110.236.18/ott.js.chinamobile.com/PLTV/4/224/3221228141/index.m3u8
