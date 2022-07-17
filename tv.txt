@@ -124,7 +124,6 @@ CCTV3 6M1080,http://[2409:8087:1070:301:2028::1f]/gslbserv.iptv.nm.chinamobile.c
 CCTV4 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/index.m3u8?fmt=ts2hls
 CCTV4欧洲 7M1080,http://[2409:8087:1020:301:2026::2b]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/index.m3u8?fmt=ts2hls
 CCTV4美洲 7M1080,http://[2409:8087:1050:301:2026::17]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/index.m3u8?fmt=ts2hls
-CCTV5 7M1080,http://[2409:8087:1070:301:2028::1c]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226290/index.m3u8?fmt=ts2hls
 CCTV5 8M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/index.m3u8?fmt=ts2hls
 CCTV5+ 8M1080,http://[2409:8087:1070:301:2028::1a]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225663/index.m3u8?fmt=ts2hls
 CCTV6 8M1080,http://[2409:8087:1070:301:2028::14]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/index.m3u8?fmt=ts2hls
