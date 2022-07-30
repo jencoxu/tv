@@ -117,6 +117,8 @@ IPTV5+ 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 湖南金鹰纪实 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 内蒙古IPV6,#genre#
+爱上4K 20M2160,http://[2409:8087:1070:301:2026::1f]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/index.m3u8?fmt=ts2hls
+CCTV16 46M2160,http://[2409:8087:1030:301:2025::28]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226301/index.m3u8?fmt=ts2hls
 CCTV1 7M1080,http://[2409:8087:1070:301:2028::23]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/index.m3u8?fmt=ts2hls
 CCTV1 7M1080,http://[2409:8087:1070:301:2028::16]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226294/index.m3u8?fmt=ts2hls
 CCTV2 7M1080,http://[2409:8087:1070:301:2028::1e]/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/index.m3u8?fmt=ts2hls
